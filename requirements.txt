@@ -3,3 +3,4 @@ aiohttp>=3.8.0
 ddddocr>=1.4.0
 opencv-python-headless>=4.5.0
 numpy>=1.21.0
+flask>=2.0.0
