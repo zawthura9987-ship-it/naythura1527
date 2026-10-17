@@ -23,7 +23,7 @@ from telegram.ext import (
 )
 
 # ── CONFIGURATION ──────────────────────────────────────────────────────────
-BOT_TOKEN = "8942997426:AAGJ539PTHKz02RzA8zOG-mHAuNXgeqj57Q"  # <--- သင့် Bot Token
+BOT_TOKEN = "8792770415:AAGNpZFDcbcA-KEeePmoiaFMLYevZtR_G9"  # <--- သင့် Bot Token
 ADMIN_ID = 6816448252                                 # <--- Single Admin ID (သင့်အကောင့်)
 
 BATCH_SIZE = 500        # Telegram Bot အတွက် သင့်တော်သော Batch Size
